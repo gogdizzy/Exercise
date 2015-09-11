@@ -2,6 +2,7 @@
 @Author gogdizzy
 @Date 2015-09-11
 @Desc use a function simulate ternery conditional
+	should compile with option with -std=c++11
 */
 
 
